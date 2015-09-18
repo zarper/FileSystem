@@ -1,0 +1,6 @@
+c:\users\feynmantesla\documents\visual studio 2012\Projects\TP_fichier\TP_fichier\bin\Debug\TP_fichier.exe.config
+c:\users\feynmantesla\documents\visual studio 2012\Projects\TP_fichier\TP_fichier\bin\Debug\TP_fichier.exe
+c:\users\feynmantesla\documents\visual studio 2012\Projects\TP_fichier\TP_fichier\bin\Debug\TP_fichier.pdb
+c:\users\feynmantesla\documents\visual studio 2012\Projects\TP_fichier\TP_fichier\obj\Debug\TP_fichier.csprojResolveAssemblyReference.cache
+c:\users\feynmantesla\documents\visual studio 2012\Projects\TP_fichier\TP_fichier\obj\Debug\TP_fichier.exe
+c:\users\feynmantesla\documents\visual studio 2012\Projects\TP_fichier\TP_fichier\obj\Debug\TP_fichier.pdb
